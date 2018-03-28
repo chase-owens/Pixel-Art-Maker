@@ -1,7 +1,7 @@
 # Pixel-Art-Maker
 Project in Udacity Front-End Developer Nanodegree Program
 ## Project Details
-In this project a [starter template] (https://github.com/udacity/project-pixel-art-maker-starter) http://www.google.fr/, including preformatted HTML and CSS were provided and the instructions were to set up the JS to build and color a grid. 
+In this project a [starter template](https://github.com/udacity/project-pixel-art-maker-starter), including preformatted HTML and CSS were provided and the instructions were to set up the JS to build and color a grid. 
 ## This version 
 <details>
 <summary>Sumitting the form builds a grid, made of a '<table>', to the width and length dimensions specified.</summary>
