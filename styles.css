@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+
+    background: linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea);
+}
+
+h1 {
+    margin: 0.2em;
+
+    font-family: Monoton;
+    font-size: 70px;
+}
+
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    margin: 0 auto;
+
+    border-collapse: collapse;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  font-weight: bold;
+}
