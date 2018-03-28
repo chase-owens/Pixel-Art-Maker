@@ -17,4 +17,5 @@ In this project, a [starter template](https://github.com/udacity/project-pixel-a
 This repository is not for general use, rather an exercise that was part of an instructional program.
 
 Thanks for taking a look!
+
 Chase
