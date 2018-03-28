@@ -4,7 +4,7 @@ Project in Udacity Front-End Developer Nanodegree Program
 In this project, a [starter template](https://github.com/udacity/project-pixel-art-maker-starter) with preformatted HTML and CSS was provided and instructions to build the JS to build and color a grid. 
 ## This version 
 <details>
-<summary>Sumitting the form builds a grid, made of a '<table>', to the width and length dimensions specified.</summary>
+<summary>Sumitting the form builds a grid, made of a `table`, to the width and length dimensions specified.</summary>
 <summary>Resetting the form clears the grid, resets the length and width dimensions to their minimum value, and clears any color input that may be entered.</summary>
 <summary>To provide a list of available colors, the pick a color section is accompanied by a link to named web colors on Wikipedia.</summary>
 <summary>When a color is specified, clicking a cell colors the grid the corresponding color.</summary>
