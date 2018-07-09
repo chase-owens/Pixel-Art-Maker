@@ -13,6 +13,8 @@ In this project, a [starter template](https://github.com/udacity/project-pixel-a
 
 ![The U](https://farm1.staticflickr.com/785/27201200298_a0223d4a28_b.jpg)
 
+To make some pixel art click [here](https://chase-owens.github.io/Pixel-Art-Maker/).
+
 ## Disclaimer
 This repository is not for general use, rather an exercise that was part of an instructional program.
 
